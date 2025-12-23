@@ -27,7 +27,7 @@ Out of the 72 antivirus programs tested, **four** of them flagged the harmless "
 
 ### Analysis
 
-These detections are false positives. Many antivirus engines rely on generic behavioral patterns or maching learning
+These detections are false positives. Many antivirus engines rely on generic behavioral patterns or machine learning
 heuristics. Terms like `susgen` (suspicious generic) and `ML.Attribute` (machine learning attribute) indicate that the
 "detection" is likely a result of heuristic analysis rather than a specific signature match, **not a confirmation of
 malicious intent**.
@@ -62,3 +62,4 @@ your own research on what specifically is being detected before jumping to concl
 
 This repository is intended for educational purposes only. The author is not responsible for any misuse of the
 information provided herein.
+
